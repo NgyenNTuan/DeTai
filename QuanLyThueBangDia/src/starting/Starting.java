@@ -7,4 +7,5 @@ public class Starting {
 		GiaoDienDangNhap dn = new GiaoDienDangNhap();
 		dn.setVisible(true);
 	}
+	//tui da test
 }
