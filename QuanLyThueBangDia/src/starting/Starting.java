@@ -7,4 +7,5 @@ public class Starting {
 		GiaoDienDangNhap dn = new GiaoDienDangNhap();
 		dn.setVisible(true);
 	}
+	//tiep tuc sua file
 }
